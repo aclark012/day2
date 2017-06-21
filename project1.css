@@ -1,0 +1,28 @@
+.header img{
+  background-color: white;
+}
+
+.header h2 {
+  color:#ff8000
+
+}
+
+.orange {
+  background: #ff8000;
+  align-items: center;
+}
+
+.orange h1 {
+    color: white;
+}
+.orange h5 {
+    color: black;
+}
+.orange p {
+    color: white;
+    border-top: dashed;
+    border-bottom: dashed;
+}
+footer {
+    background-color: white;
+}
